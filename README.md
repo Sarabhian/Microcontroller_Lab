@@ -3,7 +3,7 @@ I was feeling lazy to copy paste my code in word doc that's why using git hub to
 
 anyone who is interested to learn Microcontroller 8051 basics could refer these codes.
 
-`those who want to see outputs can check .gif files 😊`
+`those who are googlers and just want to see outputs of programme can check .gif files 😊`
 
 ### software requirements : 
 keil software  (Mu vision 5 ) <br> 
