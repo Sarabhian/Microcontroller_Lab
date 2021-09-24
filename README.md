@@ -13,3 +13,5 @@ proteus
 8051 any vesrion , any company 
 programmer ,
 and other components as per assignment
+
+### feel free to ask your doubts regarding this repo in discussions tab 
