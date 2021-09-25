@@ -1,5 +1,4 @@
 # Microcontroller_Lab
-I was feeling lazy to copy paste my code in word doc that's why using git hub to submit my assignments.
 
 anyone who is interested to learn Microcontroller 8051 basics could refer these codes.
 
